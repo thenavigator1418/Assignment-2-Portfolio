@@ -1,8 +1,6 @@
 # Assignment-2-Portfolio
 An assignment to produce a responsive personal portfolio with HTML and CSS.
 
-An end of module challenge on refactoring poor HTML and CSS to produce a SEO-friendly, accessibility-friendly website.
-
 ## Installation
 The project website is available on my current GitHub Pages link. To access and install project files, download the ZIP and unpack with software like WinRAR, or clone it directly to your machine. Or, visit the URL directly here: https://thenavigator1418.github.io/Assignment-2-Portfolio.
 
